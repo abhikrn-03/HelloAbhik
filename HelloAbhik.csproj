@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>MS.NugetTest.HelloAbhik</PackageId>
+    <Company>MS</Company>
+    <Authors>Abhik Sen</Authors>
+    <Product>HelloAbhik</Product>
+    <Description>A nuget test package in which Abhik will say hello to you.</Description>
+    <Copyright>MIT</Copyright>
+  </PropertyGroup>
+
+</Project>
